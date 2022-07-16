@@ -69,7 +69,6 @@ nav ul li a:hover {
     justify-content: center;
     box-sizing: border-box;
     z-index: -1;
-
 }
 
 .mob {
@@ -432,3 +431,4 @@ ol li {
 .ab {
     margin-top: 10px;
 }
+
